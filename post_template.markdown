@@ -9,6 +9,6 @@ comments: true
 description: Indian University Rankings
 ---
 
-### Alexa Rankings of a Few Indian Universities
+### Alexa Trafic Rankings of a Few Indian Universities
 
 
