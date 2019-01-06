@@ -1,7 +1,11 @@
 python3 -B alexarank.py
 
 
-cat post_template.markdown > 2019-01-06-Alexa-Indian-University-Rankings.markdown
-cat ranks.yml >> 2019-01-06-Alexa-Indian-University-Rankings.markdown
+mdfile="2019-01-06-Alexa-Indian-University-Rankings.markdown"
 
-cp 2019-01-06-Alexa-Indian-University-Rankings.markdown ../pythonV/JAMPY/_posts/
+cat post_template.markdown > $mdfile
+cat ranks.yml >> $mdfile
+
+cp $mdfile ../pythonV/JAMPY/_posts/
+
+echo "\n\n ###### Last Updated: `date`" >> $mdfile

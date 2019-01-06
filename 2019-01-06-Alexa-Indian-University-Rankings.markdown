@@ -29,3 +29,6 @@ description: Indian University Rankings
 - NIT Silchar: 5435
 - IIT Hyderabad: 5868
 - NIT Surat: 6191
+
+
+ ###### Last Updated: Sun Jan  6 18:49:02 IST 2019
