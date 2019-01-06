@@ -8,4 +8,4 @@ cat ranks.yml >> $mdfile
 
 cp $mdfile ../pythonV/JAMPY/_posts/
 
-echo "\n\n ###### Last Updated: `date`" >> $mdfile
+echo "\n\n###### Last Updated: `date`" >> $mdfile

@@ -31,4 +31,4 @@ description: Indian University Rankings
 - NIT Surat: 6191
 
 
- ###### Last Updated: Sun Jan  6 18:49:02 IST 2019
+ ###### Last Updated: Sun Jan  6 18:52:46 IST 2019
