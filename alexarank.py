@@ -58,4 +58,4 @@ if __name__=="__main__":
     
     with open('ranks.yml', 'w') as outfile:
         yaml.dump(uranks, outfile, default_flow_style=False)
-        
+     
