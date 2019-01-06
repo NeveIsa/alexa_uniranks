@@ -1,7 +1,7 @@
 python3 -B alexarank.py
 
 
-mdfile="2019-01-06-Alexa-Indian-University-Rankings.markdown"
+mdfile="2019-01-06-Alexa-Internet-Traffic-Rankings-of-Indian-Institutes.markdown"
 
 cat post_template.markdown > $mdfile
 cat ranks.yml >> $mdfile

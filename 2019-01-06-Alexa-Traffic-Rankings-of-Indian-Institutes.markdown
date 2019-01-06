@@ -1,3 +1,17 @@
+---
+layout: post
+#title:  "Welcome to Jekyll!"
+#date:   2018-01-04 22:36:56 +0530
+categories: random
+author: sampad
+comments: true
+
+description: Indian University Rankings
+---
+
+### Alexa Trafic Rankings of a Few Indian Universities
+
+
 - IIT Madras: 252
 - IIT Kharagpur: 483
 - IIT Kanpur: 630
@@ -15,3 +29,6 @@
 - NIT Silchar: 5316
 - IIT Hyderabad: 5872
 - NIT Surat: 6041
+
+
+##### Last Updated: Sun Jan  6 21:51:28 IST 2019
