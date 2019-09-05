@@ -30,7 +30,7 @@ if __name__=="__main__":
 
     pool = Pool(20)
 
-    unilist=yaml.load(open("unilist.yml").read())
+    unilist=yaml.safe_load(open("unilist.yml").read())
 
     univs = []
 
